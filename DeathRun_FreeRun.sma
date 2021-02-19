@@ -24,7 +24,7 @@
 *
 * Thanks to:
 * ==========
-* <VeCo> and papyrus_kn for helping me with code.
+* <VeCo> and papyrus_kn - for helping me with the code.
 *
 *****************************************************************/
 
